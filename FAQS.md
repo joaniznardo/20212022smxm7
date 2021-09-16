@@ -7,6 +7,7 @@ A) Descomprimeix el bz2 amb una altra aplicació: botó dret + altra aplicació 
 
 ## Windows
 Q) no tinc git a windows  
-A) Instl·la del company portal el Visual Studio Code (el porta incorporat)  
+A) Instal·la del company portal el Visual Studio Code (no el porta incorporat) i després instal·la [git per windows](https://git-scm.com/download/win)  
+ 
 
 
