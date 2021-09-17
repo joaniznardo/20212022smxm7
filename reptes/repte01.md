@@ -15,4 +15,5 @@ Restriccions:
   - WAN (NAT)
   - GUEST (internal)
 
-
+## formulari de coneixements previs  
+https://forms.gle/thLKCRkN7DyGPKKi7
