@@ -15,3 +15,6 @@ Restriccions:
   - WAN (NAT)
   - GUEST (internal)
 
+
+penja les captures de demo [aquí](http://tiny.cc/1nljuz)  
+
