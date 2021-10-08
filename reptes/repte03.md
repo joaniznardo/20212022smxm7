@@ -15,5 +15,6 @@ Restriccions:
   - WAN (NAT)
   - GUEST (internal)
 
-Hauria de quedar-te com ![aquesta](dhcp-fixa.png)
+Hauria de quedar-te com ![aquesta](dhcp-fixa.png)  
 
+LLiurar les catures [aqui](http://tiny.cc/n22kuz)  
