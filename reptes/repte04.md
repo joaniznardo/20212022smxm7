@@ -14,4 +14,8 @@ Restriccions:
 - ubuntu server quedarà amb:
   - GUEST (internal)
 
-
+TIPS:  
+Ordres que te convé controlar a ubuntu server: 
+- netplan (amb totes les opcions i els fitxers de configuració)  
+- networkctl (per gestionar la interfície de xarxa)  
+- resolvectl (per obtindre informació sobre els paràmetres del client de DNS)  
