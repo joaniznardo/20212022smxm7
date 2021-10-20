@@ -1,10 +1,11 @@
-# Repte 06 - DNS - BIND - domini simple - servidor ubuntu - client ubuntu 
+# Repte 07 - DNS - BIND - domini simple i redundància síncrona - servidor ubuntu (X2) - client ubuntu (X1)
  
-Objectiu: Instal.lar i configurar BIND9 en el servidor ubuntu per a que se puga fer resolució per nom des d'el client. (ip de xarxa: 10.7.x.0/24)
+**Objectiu**: Instal.lar i configurar BIND9 en el servidor ubuntu per a que se puga fer resolució DIRECTA i INVERSA (per nom i per ip)  des d'el client a qualsevol dels dos servidors. (ip de xarxa: 10.7.x.0/24)
 
+**termini**: dimarts 26/10 - 23:00 (dia i hora límit)
 
 Restriccions:  
-- El nom del domini serà: inicial_del_teu_nom+1er_cognom.edu (exemple: en el meu cas seria: jiznardo.edu)
+- nom del domini: inicial_el_teunom+1er_cognom.edu (exemple: en el meu cas seria jiznardo.edu).  
 - no se pot fer servir el mode bridge a virtualbox  
 - **SOLS UBUNTU server** pot navegar per internet directament (Mode NAT/Mode host-only)
 - la connexió entre totes dues màquines virtuals se farà amb **xarxa interna**  
@@ -22,4 +23,7 @@ Ordres que te convé controlar a ubuntu server:
 - si assignes la ip de manera manual a client i servidor (o al menys al client) te caldrà indicar quin és el servidor de noms via systemd-resolved (normalment la 1era búsqueda t'indicarà quin fitxer has d'afegir (configuració manual))
 
 
-LLiura les captures [aquí](http://tiny.cc/nc8kuz)
+LLiura les captures demostratives [aquí](http://tiny.cc/3hhkuz)  
+En la demo s'ha de poder comprovar que les consultes s'efectuen sobre cadascun dels servidors: caldrà aturar un dels dos.  
+Molarà que la demo s'efectue amb el tcpdump ;)
+
