@@ -27,3 +27,6 @@ LLiura les captures demostratives [aquí](http://tiny.cc/3hhkuz)
 En la demo s'ha de poder comprovar que les consultes s'efectuen sobre cadascun dels servidors: caldrà aturar un dels dos.  
 Molarà que la demo s'efectue amb el tcpdump ;)
 
+Ajuda addicional:  
+http://tiny.cc/vvrkuz  
+http://tiny.cc/5wrkuz  
