@@ -7,7 +7,7 @@
 ## ovas  
 [opnsense](http://insjoandaustria.xtec.cat/coord/opnsense-demo-ufs.ova)  
 - root - opnsense  
-[ubuntuserver](http://insjoandaustria.xtec.cat/coord/ubuntu-20.04-versio-alumne01-test01.ova)  
+[ubuntuserver](https://drive.google.com/file/d/1V1pi2Ik1b1G5A8GvWiZIG2f8IuFwsh-p/view?usp=sharing)
 - alumne01 - test01  
 
 ## material addicional (i.e. vull ser un/a crack)  
