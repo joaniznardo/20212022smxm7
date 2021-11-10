@@ -5,7 +5,8 @@
 [ubuntu server 20.04.3](https://releases.ubuntu.com/20.04.3/ubuntu-20.04.3-live-server-amd64.iso)  
 
 ## ovas  
-[opnsense](http://insjoandaustria.xtec.cat/coord/opnsense-demo-ufs.ova)  
+<!---  [opnsense](http://insjoandaustria.xtec.cat/coord/opnsense-demo-ufs.ova) --> 
+[opnsense](https://drive.google.com/file/d/1ctRtuTjXmaL0CNyjRllleWxmfRwkiyKn/view?usp=sharing)  
 - root - opnsense  
 [ubuntuserver](https://drive.google.com/file/d/1V1pi2Ik1b1G5A8GvWiZIG2f8IuFwsh-p/view?usp=sharing)
 - alumne01 - test01  
