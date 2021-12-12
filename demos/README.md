@@ -9,3 +9,7 @@
 ## https - part 2  
 [vídeo](https://youtu.be/WdgXVV9Z2oQ)  
 
+## ftp    
+[ftp insegur](https://youtu.be/q15U-kq0LxM)  
+
+[ftp segur](https://youtu.be/s0oPZtM8DEU)  
