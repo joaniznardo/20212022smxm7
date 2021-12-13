@@ -8,9 +8,9 @@ A.01 pots evitar que els clients naveguen per directoris del sistema? (de fet é
 A.02 saps a quin port ens connectem amb el protocol FTP? podries demostrar-ho "científicament" amb el tcpdump?  
 A.03 pots comprovar l'historial de "pujades" (uploads) i "descàrregues" (downloads)?   
 A.04 pots fer que aparegui el rètol ftp-{"el teu nom"} quan se connecta un client  
-A.05 (very advanced) pots evitar que se traspassen fitxers via sftp? 
-A.06 (advanced) pots canviar el port per defecte a algun d'aquests (30021,31210,21000)? Els clients (textual/gràfic) se connectaran igual? 
-A.07 (beyond) pots fer que se mostre un missatge simpàtic... després de connectar-se? després d'autenticar-se? després de tancar sessió? 
+A.05 (very advanced) pots evitar que se traspassen fitxers via sftp?   
+A.06 (advanced) pots canviar el port per defecte a algun d'aquests (30021,31210,21000)? Els clients (textual/gràfic) se connectaran igual?  
+A.07 (beyond) pots fer que se mostre un missatge simpàtic... després de connectar-se? després d'autenticar-se? després de tancar sessió?  
 
 ### client  
 A.11 pots connectar-te a un compte del servidor que no existeix al client? perquè si/perquè no?  
