@@ -13,3 +13,6 @@
 [ftp insegur](https://youtu.be/q15U-kq0LxM)  
 
 [ftp segur](https://youtu.be/s0oPZtM8DEU)  
+
+## email
+[primera part](https://youtu.be/aypwtVzvO_I)
