@@ -16,3 +16,6 @@
 
 ## email
 [primera part](https://youtu.be/aypwtVzvO_I)
+
+## email
+[segona part](https://youtu.be/0VFyfe6a8v4)
