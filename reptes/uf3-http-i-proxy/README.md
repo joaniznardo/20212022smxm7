@@ -2,6 +2,10 @@
 
 data de validació: dilluns 7 de Febrer de 2022  
 
+RESTRICCIONS:   
+a) les ips: [a16](https://hackmd.io/GT9hm3U2T4exnPRfmrS8Lg), [a23](https://hackmd.io/2oA1co8BTve_9muhTH-ZrQ)  
+b) els hostname: proxy-"elteucognom" i client-"elteucognom"  
+
 Preparar un entorn de servidor proxy (que és passarel·la d'internet per a la xarxa interna) i un client gràfic ubuntu 20.04.  
 
 El proxy cal que:  
