@@ -60,10 +60,11 @@ reptes 2 i 3 dimecres
     - generació: ssh-keygen no interactiu (sense passphrase)  
     - còpia de la clau públia: ssh-copy-id  
 
-[links ssh]    
+[links recomanats ssh]    
 https://www.ssh.com/academy/ssh/copy-id  
 https://www.ssh.com/academy/ssh/passphrase  
 https://hackmd.io/@joaniznardo/ssh_tips  
+
 
 ## administració remota - interfície web - webmin  (repte 2)  
 - instal·la el servei webmin a **desktop01**  
@@ -74,11 +75,23 @@ https://hackmd.io/@joaniznardo/ssh_tips
     -- no se permeta l'accés a root  
     -- el port siga diferent del port 22  
 
+[links recomanats webmin]  
+https://www.webmin.com/index.html
+http://doxfer.webmin.com/Webmin/Installation
+http://somebooks.es/instala-webmin-y-administra-ubuntu-20-04-desde-el-navegador/
+https://phoenixnap.com/kb/install-webmin-on-ubuntu
+
 ## accés remot (rdp/vnc)  - (repte 3)
 - instal·la i configura el protocol xrdp a **desktop01** 
   - accedeix des de **desktop02** amb remmina a **desktop01**  
 - instal·la i configura el protocol **vnc** a **desktop02**     
   - accedeix des de **desktop01** amb remmina a **desktop02**  
+
+[links recomanats rdp/vnc]  
+https://bytexd.com/xrdp-ubuntu/
+https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-vnc-on-ubuntu-20-04
+https://remmina.org/how-to-install-remmina/
+https://wiki.archlinux.org/title/Remmina
 
 
 ## no vist per falta de temps (valorable si s'aconsegueix)  
@@ -87,7 +100,11 @@ https://hackmd.io/@joaniznardo/ssh_tips
   - https://bytexd.com/how-to-install-cockpit-on-ubuntu/  
 - accés remot a aplicacions!! - **xpra** - (no cal compartir tot el escriptori)  
   - puc compartir per **web** l'accés al meu "geany" (editor de textos)  
+  - https://xpra.org/
+  - https://github.com/Xpra-org/xpra
+  - https://bytexd.com/xpra/
+- accés remot propietari - chrome-remote-desktop  
+  - https://bytexd.com/install-chrome-remote-desktop-headless/  
 - administració remota - **ansible** (**LA** manera d'administrar sistemes: extens - possible incorporació al projecte)  
   - compte!!!: aquest darrer apartat el recomane a mig-llar termini orientat a una administració de sistemes eficient i elegant.  
-
 
