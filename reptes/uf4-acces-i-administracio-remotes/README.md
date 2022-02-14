@@ -12,8 +12,8 @@ En aquesta UF veurem les diferents maneres de connectar-nos (i administrar) sist
   - nat
   - interna
 
-## AVALUACIÓ:
-### per revisar
+## AVALUACIÓ  
+### per revisar   
 - repte 1  
   - conservar historial en un fitxer: inicial nom+primercognom-ssh-server.txt i inicial nom+primercognom-ssh-client.txt   
     - exemple: history | tee jiznardo-ssh-server.txt
@@ -33,8 +33,8 @@ En aquesta UF veurem les diferents maneres de connectar-nos (i administrar) sist
 
 
 ## DATA AVALUACIÓ
-repte 1 dimecres 16 de febrer
-reptes 2 i 3 dimecres 
+repte 1 dimecres 16 de febrer  
+reptes 2 i 3 dimecres 23 de febrer  
 
 ## accés remot - SSH  (repte 1)  
 - demostra que pots connectar-te de manera senzilla (configuració del client) a un servidor o a altres clients a través del servidor  
