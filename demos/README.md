@@ -21,4 +21,4 @@
 [segona part](https://youtu.be/0VFyfe6a8v4)  
 
 ## accés remot  
-[ssh-client](https://youtu.be/4ZEWAMISV4)
+[ssh-client](https://youtu.be/4ZEWAMISV4Q)
