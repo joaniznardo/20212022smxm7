@@ -14,6 +14,7 @@
 
 [ftp segur](https://youtu.be/s0oPZtM8DEU)  
 
+### nota: en previsió de que play-with-docker no funcione com cal la solució més ràpida és [instalar-ho a ubuntu server](https://hackmd.io/@joaniznardo/email-server-docker)  
 ## email
 [primera part](https://youtu.be/aypwtVzvO_I)
 
